@@ -1,2 +1,0 @@
-- [x] Fix import statements in lib/main.dart to use relative imports for home_screen.dart and profile_screen.dart
-- Verify no other errors in the project
